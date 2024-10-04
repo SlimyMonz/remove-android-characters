@@ -1,4 +1,4 @@
-Open the file and modify CHARACTERS as-needed. 
+Open the file and modify ```android_special_chars``` if needed.
 
 On Linux: chmod +x remove_android_chars.sh
 
